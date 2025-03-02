@@ -1,4 +1,5 @@
 # SplitEase
+Here is the [Frontend](https://github.com/prajapatiomkar/splitease-client) and [Backend](https://github.com/prajapatiomkar/splitease-server) repository.
 ## Landing Page
 ![image](https://github.com/user-attachments/assets/24767436-2275-4df7-9e27-c1b58452b9be)
 
