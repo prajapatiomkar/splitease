@@ -14,3 +14,12 @@ Here is the [Frontend](https://github.com/prajapatiomkar/splitease-client) and [
 
 ## Reset Password Page
 ![image](https://github.com/user-attachments/assets/0836f7be-9855-4b78-89ec-adfd0f796e6d)
+
+## Home Page
+![image](https://github.com/user-attachments/assets/07798845-ab5d-48a1-b18d-d981880da748)
+
+## Dashboard Page
+![image](https://github.com/user-attachments/assets/66d69a45-31f2-4987-96e2-6f3efc251f96)
+
+## Deleting the Group
+![image](https://github.com/user-attachments/assets/52aacdf5-de20-4751-94fd-c78566488e43)
